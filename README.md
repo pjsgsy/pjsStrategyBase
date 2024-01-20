@@ -2,9 +2,9 @@
 NinjaTrader 8 unmanaged strategy code template
 
 //////
-// pjsStrategyBase is a clean code template to get your started building NT strategies from scracth, in source.
-// this strategy uses unmanaged orders -- make sure you understand the implications by referring to the ninjatrader documentation
-// follow me on Twitter @pjsmith
+// pjsStrategyBase is a clean code template to get you started building NT strategies from scratch, in source.
+// This strategy uses unmanaged orders -- make sure you understand the implications by referring to the ninjatrader documentation
+// Follow me on Twitter @pjsmith
 // Buy me a coffee if you like https://ko-fi.com/pjsmith
 //////
 
